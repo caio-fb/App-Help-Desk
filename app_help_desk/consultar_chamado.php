@@ -5,7 +5,7 @@
   //chamados
   $chamados = array();
 
-  echo $_SESSION['perfil_id'];
+  //echo $_SESSION['perfil_id'];
 
   //abrir o arquivo.hd
   $arquivo = fopen('app_help_desk/arquivo.hd', 'r');
