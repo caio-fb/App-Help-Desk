@@ -1,0 +1,7 @@
+Recomendo que salve os arquivos "arquivo.hd" e "valida_login.php" na mesma pasta
+e salve esta pasta em outro diretório fora do diretório "htdocs" para maior
+segurança.
+Deixei na mesma pasta para facilitar o uso de quem baixar os códigos pelo github,
+mas deixar na mesma pasta assim como está agora pode afetar a segurança do site, 
+permitindo que invasores facilmente acessem os dados dos outros usuários, e até 
+do administrador.
