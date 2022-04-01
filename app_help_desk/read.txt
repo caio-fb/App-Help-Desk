@@ -5,3 +5,8 @@ Deixei na mesma pasta para facilitar o uso de quem baixar os códigos pelo githu
 mas deixar na mesma pasta assim como está agora pode afetar a segurança do site, 
 permitindo que invasores facilmente acessem os dados dos outros usuários, e até 
 do administrador.
+
+Login de administrador:
+  email = adm@teste.com.br, senha =1234;
+Login de usuário:
+  email = jose@teste.com.br, senha = 1234;
